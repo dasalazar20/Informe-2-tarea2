@@ -156,3 +156,93 @@ R = se debe ajustar a mas de 45 Ω el reóstato
 ![](https://github.com/dasalazar20/Informe-2-tarea2/blob/main/Ejercicios/Capitulo%203/ima%2036.png)
 
 R = En el diagrama se puede identificar que la bombilla en la posición cuarta esta fundida 
+
+# Capitulo 4 (Energia y Potencia)
+
+2) ¿Demuestre que hay 3,6*10^6 Joules en un kilowatt-hora.?
+
+![](https://github.com/dasalazar20/Informe-2-tarea2/blob/main/Ejercicios/Capitulo%204/img%202.png)
+
+4) ¿Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
+
+![](https://github.com/dasalazar20/Informe-2-tarea2/blob/main/Ejercicios/Capitulo%204/img%204.png)
+
+6) Convierta las siguientes cantidades en kilowatts:
+
+![](https://github.com/dasalazar20/Informe-2-tarea2/blob/main/Ejercicios/Capitulo%204/img%206.png)
+
+8) Convierta las siguientes cantidades en mili watts:
+
+![](https://github.com/dasalazar20/Informe-2-tarea2/blob/main/Ejercicios/Capitulo%204/img%208.png)
+
+10) Convierta las siguientes cantidades en watts
+
+![](https://github.com/dasalazar20/Informe-2-tarea2/blob/main/Ejercicios/Capitulo%204/img%2010.png)
+
+12) . Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?
+
+![](https://github.com/dasalazar20/Informe-2-tarea2/blob/main/Ejercicios/Capitulo%204/img%2012.png)
+
+14) Convierta 5*10^6 watts-minutos en kWh.
+
+![](https://github.com/dasalazar20/Informe-2-tarea2/blob/main/Ejercicios/Capitulo%204/img%2014.png)
+
+16) ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47Ω para consumir 25 J?
+
+![](https://github.com/dasalazar20/Informe-2-tarea2/blob/main/Ejercicios/Capitulo%204/img%2016.png)
+
+18) Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?
+
+![](https://github.com/dasalazar20/Informe-2-tarea2/blob/main/Ejercicios/Capitulo%204/img%2018.png)
+
+20) . ¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4,7 kΩ?
+
+![](https://github.com/dasalazar20/Informe-2-tarea2/blob/main/Ejercicios/Capitulo%204/img%2020.png)
+
+22) . Si entre los extremos de un resistor de 680 Ω existen 60 V, ¿cuál es la potencia?
+
+![](https://github.com/dasalazar20/Informe-2-tarea2/blob/main/Ejercicios/Capitulo%204/img%2022.png)
+
+24) Si un resistor tiene que transportar 2 A de corriente y manejar 100 W de potencia, ¿de cuántos ohms debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido
+
+![](https://github.com/dasalazar20/Informe-2-tarea2/blob/main/Ejercicios/Capitulo%204/img%2024.png)
+
+26) Un resistor de 6.8 kΩ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar.
+
+![](https://github.com/dasalazar20/Informe-2-tarea2/blob/main/Ejercicios/Capitulo%204/img%2026.png)
+
+28) En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resistor.
+
+![](https://github.com/dasalazar20/Informe-2-tarea2/blob/main/Ejercicios/Capitulo%204/img%2028.png)
+
+30) Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10 Ω antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?
+
+![](https://github.com/dasalazar20/Informe-2-tarea2/blob/main/Ejercicios/Capitulo%204/img%2030.png)
+
+32) Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?
+
+![](https://github.com/dasalazar20/Informe-2-tarea2/blob/main/Ejercicios/Capitulo%204/img%2032.png)
+
+34) Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?
+
+![](https://github.com/dasalazar20/Informe-2-tarea2/blob/main/Ejercicios/Capitulo%204/img%2034.png)
+
+36) Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
+
+![](https://github.com/dasalazar20/Informe-2-tarea2/blob/main/Ejercicios/Capitulo%204/img%2036.png)
+
+# 4 VIDEO 
+
+# 5 CONCLUSIONES
+
+Capitulo 3 
+
+Al momento de la redacción y resolución de los ejercicios del capítulo 3 de “Principios de Circuitos Eléctricos” de Floyd se logró reconocer la relación que existe entre la corriente, voltaje y resistencia para identificar su respectiva formula mediante la ley de Ohm y con a su vez se logró el calcular las medidas de dichas cantidades en circuitos eléctricos y por ultimo se logro localizar fallas que se pueden presentar en un circuito eléctrico.
+
+Capitulo 4 
+
+Al realizar la redacción y resolución de los ejercicios del capítulo 2 de “Principios de Circuitos Eléctricos” de Floyd se analizo los conceptos de energía y potencia y reconocer sus respectivas formulas para calcular sus mediciones en circuitos eléctricos, a su vez, se reconoció la caída de voltaje que puede tener un circuito eléctrico y como calcular dicha caída de voltaje que se presenta en los circuitos eléctricos y como se alimenta una carga mediante una fuente de potencia.
+
+# BIBLIOGRAFICA
+
+ Floyd, T. L. (2007). Principios de Circuitos Eléctricos Floyd (Octava Edición, Vol. 1). Pearson Educación.
