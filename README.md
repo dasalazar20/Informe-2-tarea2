@@ -243,6 +243,6 @@ Capitulo 4
 
 Al realizar la redacción y resolución de los ejercicios del capítulo 2 de “Principios de Circuitos Eléctricos” de Floyd se analizo los conceptos de energía y potencia y reconocer sus respectivas formulas para calcular sus mediciones en circuitos eléctricos, a su vez, se reconoció la caída de voltaje que puede tener un circuito eléctrico y como calcular dicha caída de voltaje que se presenta en los circuitos eléctricos y como se alimenta una carga mediante una fuente de potencia.
 
-# BIBLIOGRAFICA
+# BIBLIOGRAFIA
 
  Floyd, T. L. (2007). Principios de Circuitos Eléctricos Floyd (Octava Edición, Vol. 1). Pearson Educación.
