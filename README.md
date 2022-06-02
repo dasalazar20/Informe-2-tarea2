@@ -95,6 +95,9 @@ Realizar los ejercicios pares del capitulo 3 y 4 del libro “Principios de Circ
 
 ![](https://github.com/dasalazar20/Informe-2-tarea2/blob/main/Ejercicios/Capitulo%203/ima%2010.png)
 
+R = El circuito C tiene mas corriente
+
+R = Elcircuito A tiene menos corriente 
 12) Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
 
 ![](https://github.com/dasalazar20/Informe-2-tarea2/blob/main/Ejercicios/Capitulo%203/ima%2012.png)
