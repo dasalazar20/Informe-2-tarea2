@@ -85,11 +85,11 @@ Realizar los ejercicios pares del capitulo 3 y 4 del libro “Principios de Circ
 
 ![](https://github.com/dasalazar20/Informe-2-tarea2/blob/main/Ejercicios/Capitulo%203/ima%206.png)
 
-8) . Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro
+8) Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro
 
 ![](https://github.com/dasalazar20/Informe-2-tarea2/blob/main/Ejercicios/Capitulo%203/ima%208.png)
 
-![]()
+![](https://github.com/dasalazar20/Informe-2-tarea2/blob/main/Ejercicios/Capitulo%203/img%20grafica.jpeg)
 
 10) ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
 
