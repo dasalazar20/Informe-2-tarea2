@@ -21,7 +21,7 @@ Analizar la Ley de Ohm y a su vez la energía y potencia de un circuito eléctri
 
 •	Identificar las fuentes de potencia
 
-# 2 MARCO TEORICO
+# 2. MARCO TEORICO
 
  2.1 Ley de Ohm
 
@@ -235,11 +235,11 @@ R = En el diagrama se puede identificar que la bombilla en la posición cuarta e
 
 ![](https://github.com/dasalazar20/Informe-2-tarea2/blob/main/Ejercicios/Capitulo%204/img%2036.png)
 
-# 4 VIDEO 
+# 4. VIDEO 
 
 https://www.youtube.com/watch?v=NPHPseCnuB0
 
-# 5 CONCLUSIONES
+# 5. CONCLUSIONES
 
 Capitulo 3 
 
@@ -249,6 +249,6 @@ Capitulo 4
 
 Al realizar la redacción y resolución de los ejercicios del capítulo 2 de “Principios de Circuitos Eléctricos” de Floyd se analizo los conceptos de energía y potencia y reconocer sus respectivas formulas para calcular sus mediciones en circuitos eléctricos, a su vez, se reconoció la caída de voltaje que puede tener un circuito eléctrico y como calcular dicha caída de voltaje que se presenta en los circuitos eléctricos y como se alimenta una carga mediante una fuente de potencia.
 
-# BIBLIOGRAFIA
+# 6.BIBLIOGRAFIA
 
  Floyd, T. L. (2007). Principios de Circuitos Eléctricos Floyd (Octava Edición, Vol. 1). Pearson Educación.
